@@ -1,0 +1,4 @@
+Nama	  = Bambang
+Nim	  = Kelapa Gading
+Pekerjaan	  = PENGUSAHA
+Jenis Kelamin	  = Laki-Laki
